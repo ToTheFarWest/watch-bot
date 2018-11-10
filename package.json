@@ -1,0 +1,17 @@
+{
+  "name": "spybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yarden Akin",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite-pool": "^0.1.2",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.3",
+    "fs": "0.0.1-security"
+  }
+}
